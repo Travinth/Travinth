@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Travinth/Travinth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I AM TRAVINTH DAYALAEASWARAN
 
-Here are some ideas to get you started:
+- I'm Currently working on Coding for free
+- I'm currently learning R,Python, Html, Css, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947](https://user-images.githubusercontent.com/94104126/181475101-a996232a-9dbe-4f86-bf4e-4b51fae1f345.png)
+
+- 📫 How to reach me: Travinth21@gmail.com
+
+Coding for free website: https://codingforfree.com/
+
+
