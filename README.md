@@ -1,6 +1,6 @@
-<div align="center">
+
 ![DGH](https://user-images.githubusercontent.com/94104126/182354044-944de56c-2f0c-4861-bb73-92b1325c2754.png)
-</div>  
+
   
 
 ### <div align="center">I'm Travinth Dayalaeaswaran</div>  
