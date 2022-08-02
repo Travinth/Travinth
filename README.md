@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1662595200&v=beta&t=WRvzldxZ-huLo_gFuXkXnmuHBkxscpzwXmJKExQcUJc" align="center" style="width: 100%" />
+![DGH](https://user-images.githubusercontent.com/94104126/182354044-944de56c-2f0c-4861-bb73-92b1325c2754.png)
 </div>  
   
 
