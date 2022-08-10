@@ -29,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=travinth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=travinth&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-# How I am
+# Myself
 ![eat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947](https://user-images.githubusercontent.com/94104126/181475101-a996232a-9dbe-4f86-bf4e-4b51fae1f345.png)
 
 - 📫 How to reach me: Travinth21@gmail.com
