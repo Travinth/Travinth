@@ -1,7 +1,7 @@
 
 ![DGH](https://user-images.githubusercontent.com/94104126/182354044-944de56c-2f0c-4861-bb73-92b1325c2754.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=TRAVINTH+DAYALAEASWARAN;Hell59;a+Full-Stack+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=ad0a0a&vCenter=true&width=600&height=70&lines=TRAVINTH+DAYALAEASWARAN;Programmer;An+Awesome+...)](https://git.io/typing-svg)  
 
 ### <div align="center">I'm Travinth Dayalaeaswaran</div>  
 
