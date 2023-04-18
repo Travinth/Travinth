@@ -44,4 +44,4 @@ Coding for free [website](https://codingforfree.com/)
 Follow me for more updates on [Coding for free](https://github.com/Coding-for-free)
 
 
-![visitors](https://github.com/Travinth?page_id=page.id&left_color=green&right_color=red)
+
