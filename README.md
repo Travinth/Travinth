@@ -45,3 +45,4 @@ Follow me for more updates on [Coding for free](https://github.com/Coding-for-fr
 
 
 
+![](https://komarev.com/ghpvc/?username=Travinth&color=dc143c)
