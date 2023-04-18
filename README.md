@@ -16,13 +16,14 @@
 
 - 📫 How to reach me **Travinth21@gmail.com**
 
-- ⚡ Fun fact **While typing any docs I use only 1 bracket instead of 2 🤣**
+- ⚡ Fun fact **While typing some docs I use only 1 bracket instead of 2 🤣**
 
 ## 🌐 Links:
 - [Dev.to](https://dev.to/travinth)
 - [Stackoverflow](https://stackoverflow.com/users/19531309/travinth-dayalaeaswaran)
 - [YouTube](https://www.youtube.com/channel/UCLJJ-nqVL84KAOgO1fY3LJQ)
 - [Replit](https://replit.com/@Travinth)
+- [Grepper](https://www.grepper.com/profile/travinth-dayalaeaswaran)
   
 
 # 💻 I'm interested in:
