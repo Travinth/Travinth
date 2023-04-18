@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Travinth21@gmail.com**
 
-- ⚡ Fun fact **While typing some docs I use only 1 bracket instead of 2 🤣**
+- ⚡ Fun fact **I am an aviation and astronomy enthusiast ✈️🌌☄️🚀🛰️**
 
 ## 🌐 Links:
 - [Dev.to](https://dev.to/travinth)
