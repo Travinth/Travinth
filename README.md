@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Travinth21@gmail.com**
 
-- ⚡ Fun fact **I am an aviation and astronomy enthusiast ✈️🌌☄️🚀🛰️**
+- ⚡ Fun fact **I am an aviation, astronomy and Basketball enthusiast ✈️🌌☄️🚀🛰️🏀🏀**
 
 ## 🌐 Links:
 - [Dev.to](https://dev.to/travinth)
